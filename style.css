@@ -1,0 +1,56 @@
+/* h1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+} */
+h2{
+    color: cadetblue;
+    text-align: center;
+}
+h3{
+    color: blue;
+    text-align: center;
+}
+h4{
+    color: cadetblue;
+    text-align: center;
+}
+/* h5{
+    color: rgb(0, 0, 0);
+    text-align: center;
+} */
+h6{
+    color: rgb(250, 0, 0);
+    text-align: center;
+}
+/* 
+div{
+    color: cadetblue;
+    text-align: center;
+} */
+
+img{
+    height: 22vh;
+    width: 33vh;
+}
+
+.container{
+    background-color: rgb(106, 105, 97);
+    width: 100%;
+    height: 400px;
+    margin-right: 100px ;
+    column-gap: 20px;
+}
+
+.block{
+    background-color: red;
+    padding-right: 100px;
+    width: 400px;
+    height: 40px;
+}
+
+
+img{
+    height: 25vh;
+    width: 35vh;
+}
+
